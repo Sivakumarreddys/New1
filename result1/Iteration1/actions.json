@@ -1,0 +1,22 @@
+[
+    {
+        "actionName": "Action1",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: XMLSelect_Sessionless_5192_AirAvailabilityByTariff_13_1V",
+                "infFile": "t1.inf",
+                "time": 1616094268468
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "XWS_sessionless_5192_AirAvailabilityByTariff_13_1V_CGR",
+                "rawStartTime": 1616094265653,
+                "rawEndTime": 1616094268473,
+                "thinkTime": 0.0,
+                "wastedTime": 0.12774109840393067
+            }
+        ]
+    }
+]

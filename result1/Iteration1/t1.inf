@@ -1,0 +1,13 @@
+[t1]
+SnapshotXmlFile=snapshot_1.xml
+ContentType=application/xml
+StepName=Custom Request: XMLSelect_Sessionless_5192_AirAvailabilityByTariff_13_1V
+Total=1
+FileName1=t1.xml
+RequestHeaderFile=t1_RequestHeader.txt
+ResponseHeaderFile=t1_ResponseHeader.txt
+RawStepEndTime=0
+RawStepName=XMLSelect_Sessionless_5192_AirAvailabilityByTariff_13_1V
+RequestBodyFile=t1_RequestBody.txt
+RawStepStartTime=1616094265657
+URL1=https://americas.stp2perf2.tvlport.com/B2BGateway/service/XMLSelect

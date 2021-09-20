@@ -1,0 +1,12 @@
+POST /B2BGateway/service/XMLSelect HTTP/1.1
+Authorization: Basic VERTV1MvTE9BRFJVTk5FUjA0OmNveW90RTAz
+Content-Type: text/xml; charset=utf-8
+Cache-Control: no-cache
+SOAPAction: "http://webservices.galileo.com/SubmitXml"
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: Keep-Alive
+Host: americas.stp2perf2.tvlport.com
+Content-Length: 3134
+
